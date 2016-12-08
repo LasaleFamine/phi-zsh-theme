@@ -6,6 +6,7 @@
 
 <p align="center">  
   <img src="phi-zsh-theme.png" alt="Phi φ ZSH Theme"/>
+  <span style="font-size:10px">I'm using also [Hyper](https://github.com/zeit/hyper) with the **'hyperterm-atom-dark'**</span>
 </p>
 
 ## Install
@@ -13,6 +14,13 @@
 Download the **phi.zsh-theme** and place it inside the `~/.oh-my-zsh/themes` folder.
 
 Then change the theme within the `~/.zshrc` file.
+
+## Dependency
+
+For the icons:
+- [Powerline Fonts](https://github.com/powerline/fonts)
+
+And also ensure that you are using one of the Powerline fonts within the terminal.
 
 ## Features
 
