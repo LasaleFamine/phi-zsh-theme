@@ -6,7 +6,7 @@
 
 <p align="center">  
   <img src="phi-zsh-theme.png" alt="Phi φ ZSH Theme"/>
-  <span style="font-size:10px">I'm using also [Hyper](https://github.com/zeit/hyper) with the **'hyperterm-atom-dark'**</span>
+  <span style="font-size:10px">I'm using also <b><a href="https://github.com/zeit/hyper">Hyper</a></b> with the <b>'hyperterm-atom-dark'</b></span>
 </p>
 
 ## Install
